@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" class="icon">
+  <circle cx="32" cy="19" r="4" stroke="#dcc8fa" stroke-width="2"/>
+  <path stroke="#dcc8fa" stroke-linejoin="round" stroke-width="2" d="M48 24a1 1 0 0 0-1-1H17a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h9v21a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-9h4v9a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V27h9a1 1 0 0 0 1-1v-2Z"/>
+  <circle cx="46" cy="37" r="1" fill="#dcc8fa"/>
+  <circle cx="18" cy="37" r="1" fill="#dcc8fa"/>
+  <path stroke="#dcc8fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V9h10M9 45v10h10M55 19V9H45M55 45v10H45"/>
+  <circle cx="54.5" cy="24.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="54.5" cy="29.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="54.5" cy="34.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="54.5" cy="39.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="24.5" cy="9.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="29.5" cy="9.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="34.5" cy="9.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="39.5" cy="9.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="9.5" cy="24.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="9.5" cy="29.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="9.5" cy="34.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="9.5" cy="39.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="24.5" cy="54.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="29.5" cy="54.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="34.5" cy="54.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="39.5" cy="54.5" r=".5" fill="#dcc8fa"/>
+</svg>

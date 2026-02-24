@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="32" fill="none" class="icon">
+  <circle cx="21.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="26.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="61.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="66.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="78.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="38.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="83.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="101.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="106.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="118.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="123.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="43.5" cy="15.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="10.5" cy="15.5" r="1.5" fill="#dcc8fa"/>
+  <circle cx="32.5" cy="15.5" r="1.5" fill="#dcc8fa"/>
+  <circle cx="72.5" cy="15.5" r="1.5" fill="#dcc8fa"/>
+  <circle cx="112.5" cy="15.5" r="1.5" fill="#dcc8fa"/>
+  <circle cx="10.5" cy="15.5" r="5.5" stroke="#dcc8fa" stroke-width="2"/>
+  <circle cx="52.5" cy="15.5" r="3.5" stroke="#dcc8fa" stroke-width="2"/>
+  <circle cx="92.5" cy="15.5" r="3.5" stroke="#dcc8fa" stroke-width="2"/>
+</svg>
