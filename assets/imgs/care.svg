@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" class="icon">
+  <path stroke="#dcc8fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 38h4.972a10 10 0 0 1 5.547 1.68L38 44m-17-6v13m0-13v-1h-7v15h7v-1m17-7 .365.365a2.313 2.313 0 0 1 0 3.27v0c-.79.79-2.033.903-2.952.266L30.5 44.5M38 44l15.126-4.727a1.918 1.918 0 0 1 1.636.235v0a1.918 1.918 0 0 1 .099 3.122L40.958 53.223a10 10 0 0 1-10.533.99L24 51h-3m-7-13H9m5 13H9M22.768 21.768 33 32l10.232-10.232A6.036 6.036 0 0 0 45 17.5c0-1.6-.649-3.149-1.78-4.28-2.713-2.713-7.25-2.378-9.48.743L33 15l-.74-1.037c-2.23-3.121-6.767-3.456-9.48-.744A6.078 6.078 0 0 0 21 17.5c0 1.6.636 3.136 1.768 4.268Z"/>
+  <circle cx="49" cy="11" r="1" fill="#dcc8fa"/>
+  <circle cx="16" cy="15" r="1" fill="#dcc8fa"/>
+  <circle cx="40" cy="34" r="1" fill="#dcc8fa"/>
+  <circle cx="24.5" cy="7.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="41.5" cy="5.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="24.5" cy="31.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="17.5" cy="41.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="17.5" cy="44.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="17.5" cy="47.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="52.5" cy="21.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="45.5" cy="26.5" r=".5" fill="#dcc8fa"/>
+  <circle cx="12.5" cy="23.5" r=".5" fill="#dcc8fa"/>
+</svg>
